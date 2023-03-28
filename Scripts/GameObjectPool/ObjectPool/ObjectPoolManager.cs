@@ -63,7 +63,7 @@ public class ObjectPoolManager : SingletonSuperMono<ObjectPoolManager>, IManager
     }
 
     /// <summary>
-    /// 获取对象
+    /// 获取对象(需要自己开启SetActive)
     /// </summary>
     /// <param name="poolName"></param>
     /// <returns></returns>

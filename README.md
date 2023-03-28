@@ -15,3 +15,6 @@ Unity实用框架（逐步完善）
 
 # UIMgr
 ui管理器
+
+# CoroutineMgr
+ui管理器

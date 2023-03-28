@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
-namespace MGPMFramework
+namespace MFramework
 {
     public class GenrateResConfig : Editor
     {

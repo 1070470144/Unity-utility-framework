@@ -1,10 +1,10 @@
-using MGPCommons.Class;
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace MGPMFramework
+namespace MFramework
 {
     ///<summary>
     ///资源加载管理类

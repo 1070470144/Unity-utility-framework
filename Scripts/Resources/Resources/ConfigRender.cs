@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using System;
 
-namespace MGPMFramework
+namespace MFramework
 {
     ///<summary>
     ///负责读取配置文件并提供解析行

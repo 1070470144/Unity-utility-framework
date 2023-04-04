@@ -21,3 +21,7 @@ ui管理器
 
 # ABManager
 AB包加载
+
+# 编辑器扩展
+## EditorAB
+编辑器扩展的ab工具
